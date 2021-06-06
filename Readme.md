@@ -13,7 +13,7 @@ npm install
 
 ## Usage
 
-![Walkthrough showcase](assets/images/Walkthrough.gif "Walkthough video")
+![Walkthrough showcase](assets/images/Social-Network-Api.gif "Walkthough video")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
