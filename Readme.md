@@ -13,7 +13,7 @@ npm install
 
 ## Usage
 
-![alt text](https://github.com/dakotapierce26/Social-Network-API/images/Social-Network-API.gif)
+![Walkthrough showcase](Develop/assets/images/Walkthrough.gif "Walkthough video")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
